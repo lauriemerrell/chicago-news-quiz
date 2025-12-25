@@ -1,3 +1,5 @@
+<img width="96" height="68" alt="Flag of Chicago, Illinois" src="https://github.com/user-attachments/assets/b23a7792-cd6f-41c7-8c87-a43881963aa5" />
+
 # README
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and it [deploys to GitHub pages when `npm run deploy` is run](https://create-react-app.dev/docs/deployment/#github-pages). 
