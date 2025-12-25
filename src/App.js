@@ -98,7 +98,7 @@ function App() {
     const FinalDisplay = () => {
 
       const copyResults = () => {
-        const resultsText = 'I scored ' + Math.round(correctQuestionsCount / completedQuestionsCount * 100) + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.github.io/chicago-news-quiz-2025/'
+        const resultsText = 'I scored ' + Math.round(correctQuestionsCount / completedQuestionsCount * 100) + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz/'
         navigator.clipboard.writeText(resultsText)
       }
 
