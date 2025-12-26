@@ -22,7 +22,11 @@ function App() {
       <div style={{'paddingTop': '10%'}}>
         <p>Created by Laurie Merrell</p>
         <p>Accurate as of December 24, 2025</p>
-        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> / <a href="https://github.com/lauriemerrell/chicago-news-quiz-2025">See the code on GitHub</a></p>
+        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> 
+        <br/> 
+        <a href="https://github.com/lauriemerrell/chicago-news-quiz-2025">See the code on GitHub</a>
+        <br/> 
+        <a href="https://lauriemerrell.com/chicago-news-quiz-2024">Last year's quiz</a></p>
       </div>
       </div>
     )
