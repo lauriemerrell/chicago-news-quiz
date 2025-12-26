@@ -112,7 +112,7 @@ function App() {
           <img 
             src={require('./images/results/results-' + finalScore + 'percent.jpg')}
             alt={'Results graphic'}
-            height="200" width="auto">
+            height="auto" width="100%">
           </img>
           <br/>
           <br/>
@@ -142,7 +142,7 @@ function App() {
                     <img 
                       src={require('./images/' + entry['image_id'] + '.jpg')}
                       alt={entry['alt']}
-                      height="200" width="auto">
+                      height="auto" width="100%">
                     </img>
                     <br/>
                     <br/>
